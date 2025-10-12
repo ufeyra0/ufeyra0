@@ -56,12 +56,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ufeyra0&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufeyra0&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ufeyra0&show_icons=true&theme=default&hide_border=true&card_width=450" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufeyra0&layout=compact&theme=default&hide_border=true&card_width=450" alt="Top Languages" width="48%" />
+</div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=ufeyra0&theme=vue&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=ufeyra0&theme=default&hide_border=true" alt="GitHub Streak Stats" />
 </p>
