@@ -1,10 +1,4 @@
-# Hi! I'm Üfeyra Bağcı 👋
-
-### I am a final-year student in Management Information Systems, passionate about software development.
-
----
-
-## 📬 Socials:
+## 🌐 Socials:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ufeyra-bagci/">
