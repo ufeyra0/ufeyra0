@@ -43,10 +43,3 @@
 
 ---
 
-## 🚀 Featured Project
-
-### Project Recommendation System
-* **Description:** A system that provides recommendations based on user filters, built with a **Streamlit** interface.
-* **Technologies Used:** Python, **Streamlit**
-* **Status:** [In Progress / Completed]
-* **Repository:** [Project Repository Link](https://github.com/ufeyra0/proje_oneri)
