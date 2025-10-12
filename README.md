@@ -1,5 +1,4 @@
-
-- You can reach me through: <a href="https://www.linkedin.com/in/ufeyra-bagci/" title="LinkedIn"><img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> <a href="mailto:ufeyrabagci0@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
+## 🌐 Socials: <a href="https://www.linkedin.com/in/ufeyra-bagci/" title="LinkedIn"><img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> <a href="mailto:ufeyrabagci0@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
 
 ---
 
