@@ -1,3 +1,9 @@
+# Hi! I'm Üfeyra Bağcı 👋
+
+### I am a final-year student in Management Information Systems, passionate about software development.
+
+---
+
 ## 🌐 Socials:
 
 <p align="left">
@@ -27,17 +33,8 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge" />
 </p>
 
-
-
-## 🚀 Featured Project
-
-### Project Recommendation System
-* **Description:** A system that provides recommendations based on user filters, built with a **Streamlit** interface.
-* **Technologies Used:** Python, **Streamlit**
-* **Status:** [In Progress / Completed]
-* **Repository:** [Project Repository Link](https://github.com/ufeyra0/proje_oneri)
-
 ---
+
 
 ## 📊 GitHub Stats:
 
@@ -49,3 +46,13 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com/?user=ufeyra0&theme=cobalt&hide_border=false" alt="GitHub Streak Stats" />
 </p>
+
+---
+
+## 🚀 Featured Project
+
+### Project Recommendation System
+* **Description:** A system that provides recommendations based on user filters, built with a **Streamlit** interface.
+* **Technologies Used:** Python, **Streamlit**
+* **Status:** [In Progress / Completed]
+* **Repository:** [Project Repository Link](https://github.com/ufeyra0/proje_oneri)
