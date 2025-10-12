@@ -4,7 +4,7 @@
 
 ---
 
-## 📬 Connect with Me
+## 📬 Socials:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ufeyra-bagci/">
@@ -17,7 +17,7 @@
 
 ---
 
-## 💻 Languages and Tools:
+## 💻 Tech Stack:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge" />
@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-  
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge" />
   <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge" />
@@ -54,13 +53,16 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ufeyra0&show_icons=true&theme=default&hide_border=true&card_width=450" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufeyra0&layout=compact&theme=default&hide_border=true&card_width=450" alt="Top Languages" width="48%" />
-</div>
+## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=ufeyra0&theme=default&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufeyra0&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=ufeyra0&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ufeyra0&show_icons=true&theme=dark&hide_border=true&card_width=450" alt="GitHub Stats" />
 </p>
