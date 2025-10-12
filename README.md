@@ -4,36 +4,49 @@
 
 ---
 
+## 📬 Connect with Me
+
+| Platform | Link |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ufeyra-bagci/) |
+| **Email** | [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ufeyrabagci0@gmail.com) |
+
+---
+
+## 🛠️ Skills
+
+<div align="center">
+  
+  ### 💻 Languages I Use
+  | Language | Badge |
+  | :--- | :--- |
+  | **Kotlin** | <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge" /> |
+  | **C#** | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge" /> |
+  | **HTML5** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" /> |
+  | **CSS3** | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" /> |
+  | **JavaScript** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" /> |
+  
+  <br>
+
+  ### ⚙️ Technologies & Libraries
+  | Technology | Badge |
+  | :--- | :--- |
+  | **Streamlit** | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge" /> |
+  | **NumPy** | <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge" /> |
+  | **Matplotlib** | <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge" /> |
+  | **Git** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" /> |
+  | **OpenCV** | <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge" /> |
+
+</div>
+
+---
+
 ## 🎓 Education
 
 * **Mehmet Akif Ersoy University**
     * Management Information Systems (MIS) - 4th Year
 * **Istanbul University (AUZEF)**
     * Business Administration - 2nd Year
-
----
-
-## 💻 Languages I Use
-
-| Language | Badge |
-| :--- | :--- |
-| **Kotlin** | <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Badge" /> |
-| **C#** | <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge" /> |
-| **HTML5** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" /> |
-| **CSS3** | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" /> |
-| **JavaScript** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" /> |
-
----
-
-## 🛠️ Technologies & Libraries
-
-| Technology | Badge |
-| :--- | :--- |
-| **Streamlit** | <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Badge" /> |
-| **NumPy** | <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge" /> |
-| **Matplotlib** | <img src="https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge" /> |
-| **Git** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" /> |
-| **OpenCV** | <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge" /> |
 
 ---
 
@@ -47,19 +60,14 @@
 
 ---
 
-## 📬 Connect with Me
-
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ufeyra-bagci/) |
-| **Email** | [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ufeyrabagci0@gmail.com) |
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ufeyra0&show_icons=true&theme=vue&hide_border=true" alt="GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufeyra0&layout=compact&theme=vue&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ufeyra0&color=blue" alt="Profile View Count" />
 </p>
