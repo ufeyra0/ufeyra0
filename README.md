@@ -1,8 +1,17 @@
-## 🌐 Socials: <a href="https://www.linkedin.com/in/ufeyra-bagci/" title="LinkedIn"><img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> <a href="mailto:ufeyrabagci0@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a>
+# Hi! I'm Üfeyra Bağcı 👋 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" />
+
+## 🌐 Socials:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ufeyra-bagci/" title="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" />
+  </a>
+  <a href="mailto:ufeyrabagci0@gmail.com" title="Email">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/>
+  </a>
+</p>
 
 ---
-
-
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Languages and Tools:
 
@@ -23,13 +32,16 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ufeyra0&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufeyra0&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ufeyra0&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.demolab.com/?user=ufeyra0&theme=cobalt&hide_border=false" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ufeyra0&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
